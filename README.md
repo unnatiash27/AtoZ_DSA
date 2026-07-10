@@ -10,3 +10,6 @@ Day 2
 
 Day 3
 <img width="1652" height="656" alt="image" src="https://github.com/user-attachments/assets/ad077164-9486-48e9-9941-b433d1e1acf6" />
+
+Day 4
+<img width="1487" height="751" alt="image" src="https://github.com/user-attachments/assets/e865960e-8a75-4e4d-9fd5-8536f911f205" />
