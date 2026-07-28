@@ -22,3 +22,6 @@ Day 6
 
 Day 7
 <img width="1898" height="837" alt="image" src="https://github.com/user-attachments/assets/84a5a2d8-56d0-4ad7-b90e-41b01180e679" />
+
+Day 8
+<img width="1917" height="902" alt="image" src="https://github.com/user-attachments/assets/acbad5c4-9a3d-4e05-8b0a-0f9801444238" />
