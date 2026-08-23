@@ -9,3 +9,4 @@ class Solution:
                 ans[i]=st[-1]-i
             st.append(i)
         return ans
+# this i did on my own took 1 whole day!
